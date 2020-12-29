@@ -19,6 +19,9 @@ It can do these things:
 ### Troubleshooting
 
 If there is any error on the PyAudio module do this steps:
+
+<br />
+
 `pip install pipwin`
 
 <br />
