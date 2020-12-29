@@ -7,7 +7,7 @@ Our News reporter is a powerfull tool for Lazy people🤣
 It can do these things:
 
 - Read news and articles
-- Get weather data and read that to the hearer 
+- Get weather data and read that to the hearer (Upcoming)
 
 ### Requirments 
 
