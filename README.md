@@ -20,5 +20,8 @@ It can do these things:
 
 If there is any error on the PyAudio module do this steps:
 `pip install pipwin`
+
+<br />
+
 `pipwin install pyaudio`
 
